@@ -1,2 +1,14 @@
 *.dat
+!info.dat
 results/
+
+# Solution 01
+logs_*.txt
+
+# Solution 02
+logs/*
+!logs/info.txt
+
+# Solution 03
+*.txt
+# git add -f logs/info.txt
