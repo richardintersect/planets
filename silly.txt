@@ -2,3 +2,7 @@ Roses are red
 Violets are blue
 Git is wonderful
 And so are you
+
+Shopping list:
+Peanuts
+Popcorn
